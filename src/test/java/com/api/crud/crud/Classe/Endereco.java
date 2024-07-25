@@ -1,4 +1,4 @@
-package com.api.crud.crud;
+package com.api.crud.crud.Classe;
 
 import com.google.gson.Gson;
 
