@@ -1,4 +1,4 @@
-package com.api.crud.crud.controllers.exceptions;
+package com.api.senai.exceptions;
 
 public class ErroInesperado extends RuntimeException {
 

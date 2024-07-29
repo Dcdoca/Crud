@@ -1,13 +1,14 @@
-package com.api.crud.crud;
+package com.api.senai;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CrudApplication {
+public class SenaiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CrudApplication.class, args);
+		SpringApplication.run(SenaiApplication.class, args);
+
 	}
 
 }

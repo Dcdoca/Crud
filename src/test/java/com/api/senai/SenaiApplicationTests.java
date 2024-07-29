@@ -1,10 +1,10 @@
-package com.api.crud.crud;
+package com.api.senai;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CrudApplicationTests {
+class SenaiApplicationTests {
 
 	@Test
 	void contextLoads() {
